@@ -1,0 +1,6 @@
+id=soter-selinux-fix
+name=Fix soter selinux
+version=v1
+versionCode=1000
+author=lyaaz
+description=Fix tencent soter selinux policy to make wechat fingerprint pay works.
